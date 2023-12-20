@@ -7,5 +7,4 @@ component = {
   user = {}
   cart = {}
   mysql = {}
-  shipping = {}
 }
